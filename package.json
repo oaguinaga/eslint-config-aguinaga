@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-aguinaga",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint and Prettier config for Omar Aguinaga",
   "keywords": [
     "javascript",
