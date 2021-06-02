@@ -120,8 +120,11 @@ module.exports = {
         "trailingComma": "es5",
         "singleQuote": true,
         "printWidth": 80,
+        "semi": false,
       }
     ],
+    "jsx-a11y/click-events-have-key-events": 0,
+    "jsx-a11y/no-noninteractive-element-interactions": 0,
     "jsx-a11y/href-no-hash": "off",
     "jsx-a11y/anchor-is-valid": [
       "warn",
@@ -132,6 +135,7 @@ module.exports = {
       }
     ],
     "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn"
+    "react-hooks/exhaustive-deps": "warn",
+    "react/prop-types": 0
   }
 };
